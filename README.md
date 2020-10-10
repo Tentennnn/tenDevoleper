@@ -13,7 +13,7 @@
 [<img align="left" alt="tenbot.glitch.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="TEN Gaming | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="heaalong_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img aligg="left" alt=https://discord.gg/VYRyTJ3 | Discord width=22px" src=https://iconscout.com/icons/discord.svg" />][Discord]
+[<img align="left" alt="Discord | Discord" width="22px" src="https://iconscout.com/icons/discord.svg" />][Discord]
 
 <br />
 
