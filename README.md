@@ -39,6 +39,10 @@
 <br />
 
 ---
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="tenDevoleper's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tenDevoleper&show_icons=true&hide_border=true" />
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -53,12 +57,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="tenDevoleper's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tenDevoleper&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://tenbot.glitch.me
 [course]: http://vsCodeHero.com
