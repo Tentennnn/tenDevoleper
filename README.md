@@ -38,11 +38,11 @@
 <br />
 <br />
 
-  <summary>:zap: GitHub Stats</summary>
+### ⚡ GitHub Stats
 
-  <img align="left" alt="tenDevoleper's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tenDevoleper&show_icons=true&hide_border=true" />
+ <img align="left" alt="tenDevoleper's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tenDevoleper&show_icons=true&hide_border=true" />
 
----
+
 
 [website]: https://tenbot.glitch.me
 [course]: http://vsCodeHero.com
